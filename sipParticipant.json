@@ -1,0 +1,7 @@
+{
+	"sip_trunk_id": "<your-trunk-id>",
+	"sip_call_to": "<phone-number-to-dial>",
+	"room_name": "my-sip-room",
+	"participant_identity": "sip-test",
+	"participant_name": "Test Call"
+}
